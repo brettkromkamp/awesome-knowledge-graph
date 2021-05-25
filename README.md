@@ -120,6 +120,7 @@
 - [Archivy](https://github.com/Uzay-G/archivy) - A self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [mindlib](https://mindlib.de/) - A personal mind-mapping tool.
 - [wreeto](https://wreeto.com/) - A knowledge management tool specifically targetting software engineers.
+- [Innos Note](https://innos.io/) - A web based knowledge garden for curious minds, features include parallel pages, content blocks, playground, knowledge graph, auto suggestions.
 
 ## Libraries
 
