@@ -26,6 +26,7 @@
 
 ## Articles
 
+- [As we may think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - [Why Roam is cool](https://divinations.substack.com/p/why-roam-is-cool)
 - [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
 - [Prefer associative ontologies to hierarchical taxonomies](https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy)
